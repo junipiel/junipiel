@@ -1,4 +1,4 @@
-# Hi, I’m Julian Pielmaier.
+# Hi, I’m Julian.
 
 I study computer science at Leipzig University and work on machine learning. I’m especially interested in graphs, dynamical systems, geometric deep learning, and understanding what models learn from structured data.
 
